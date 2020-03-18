@@ -1,80 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CH4" group-title="Local Channels" tvg-logo="http://204.0.0.2:17000/media/MTV.jpg",1 MTV
-http://204.0.0.2:8099/MTV?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="LBCI" group-title="Local Channels" tvg-logo="http://204.0.0.2:17000/media/LBCI.jpg",2 LBCI
-http://204.0.0.2:8099/LBCI?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="ALJADEED" group-title="Local Channels" tvg-logo="http://204.0.0.2:17000/media/ALJADEED.png",3 ALJADEED
-http://204.0.0.2:8099/ALJADEED?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OTV" group-title="Local Channels" tvg-logo="http://204.0.0.2:17000/media/otv.png",4 OTV
-http://204.0.0.2:8099/OTV?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="LB2" group-title="Local Channels" tvg-logo="http://204.0.0.2:17000/media/LB2.png",5 LB2
-http://204.0.0.2:8099/LB2?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="ALMANAR" group-title="Local Channels" tvg-logo="http://204.0.0.2:17000/media/MANAR.jpg",6 ALMANAR
-http://204.0.0.2:8099/ALMANAR?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="ALMAYADEEN" group-title="News Channels" tvg-logo="http://204.0.0.2:17000/media/MAYADEEN.png",20 ALMAYADEEN
-http://204.0.0.2:8099/ALMAYADEEN?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="ALHADATH" group-title="News Channels" tvg-logo="http://204.0.0.2:17000/media/ALHADATH.png",21 ALHADATH
-http://204.0.0.2:8099/ALHADATH?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="FOXREWAYAT" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/FOXREWAYAT.png",30 FOXREWAYAT
-http://204.0.0.2:8099/FOXREWAYAT?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="DISCOVERY.ID" group-title="Documentary Channels" tvg-logo="http://204.0.0.2:17000/media/DISCOVERYID.png",31 DISCOVERY ID
-http://204.0.0.2:8099/DISCOVERY%20ID?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN.MOVIES.HD1" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/BEINMOVIESHD1.png",32 BEIN MOVIES HD1 PREMIERE
-http://204.0.0.2:8099/BEIN%20MOVIES%20HD1%20PREMIERE?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN MOVIES HD2 ACTION" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/BEINMOVIESHD2.png",33 BEIN MOVIES HD2 ACTION
-http://204.0.0.2:8099/BEIN%20MOVIES%20HD2%20ACTION?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SERIES HD1" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/BEINSERIESHD1.png",34 BEIN SERIES HD1
-http://204.0.0.2:8099/BEIN%20SERIES%20HD1?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN DRAMA HD1" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/BEINDRAMAHD1.png",35 BEIN DRAMA HD1
-http://204.0.0.2:8099/BEIN%20DRAMA%20HD1?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="MBC+ DRAMA" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/MBCPLUS.jpg",36 MBC+ DRAMA
-http://204.0.0.2:8099/MBC%2B%20DRAMA?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN YA HALA CINEMA" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/OSNYAHALACINEMA.png",37 OSN YA HALA CINEMA
-http://204.0.0.2:8099/OSN%20YA%20HALA%20CINEMA?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN YA HALA" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/OSNYAHALA.jpg",38 OSN YA HALA
-http://204.0.0.2:8099/OSN%20YA%20HALA?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN YA HALA OULA" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/OSNYAHALAOULA.png",39 OSN YA HALA OULA
-http://204.0.0.2:8099/OSN%20YA%20HALA%20OULA?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN MOVIES" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/OSNMOVIES.png",40 OSN MOVIES
-http://204.0.0.2:8099/OSN%20MOVIES?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN MOVIES FIRST" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/OSNMOVIESFIRST.jpg",41 OSN MOVIES FIRST
-http://204.0.0.2:8099/OSN%20MOVIES%20FIRST?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN ACTION" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/OSNACTION.jpg",42 OSN ACTION
-http://204.0.0.2:8099/OSN%20ACTION?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN ENIGMA" group-title="Movies Channels" tvg-logo="http://204.0.0.2:17000/media/OSNENIGMA.jpg",43 OSN ENIGMA
-http://204.0.0.2:8099/OSN%20ENIGMA?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN MOVIES DISNEY" group-title="Kids Channels" tvg-logo="http://204.0.0.2:17000/media/OSNMOVIESDISNEY.png",50 OSN MOVIES DISNEY
-http://204.0.0.2:8099/OSN%20MOVIES%20DISNEY?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN DISNEY CHANNEL" group-title="Kids Channels" tvg-logo="http://204.0.0.2:17000/media/DISNEY.png",51 DISNEY CHANNEL
-http://204.0.0.2:8099/DISNEY%20CHANNEL?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="OSN KIDS" group-title="Kids Channels" tvg-logo="http://204.0.0.2:17000/media/OSNKIDS.png",52 OSN KIDS
-http://204.0.0.2:8099/OSN%20KIDS?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="NICKELODEON" group-title="Kids Channels" tvg-logo="http://204.0.0.2:17000/media/NICKELODEON.png",53 NICKELODEON
-http://204.0.0.2:8099/NICKELODEON?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="NICKELODEON JUNIOR" group-title="Kids Channels" tvg-logo="http://204.0.0.2:17000/media/NICKELODEONJUNIOR.jpg",54 NICKELODEON JUNIOR
-http://204.0.0.2:8099/NICKELODEON%20JUNIOR?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="FATAFEAT" group-title="Food Channels" tvg-logo="http://204.0.0.2:17000/media/FATAFEAT.jpg",55 FATAFEAT
-http://204.0.0.2:8099/FATAFEAT?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD1" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD1.png",60 BEIN SPORTS HD1
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD1?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD2" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD2.png",61 BEIN SPORTS HD2
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD2?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD3" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD3.jpg",62 BEIN SPORTS HD3
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD3?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD4" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD4.png",63 BEIN SPORTS HD4
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD4?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD5" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD5.jpg",64 BEIN SPORTS HD5
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD5?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD6" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD6.png",65 BEIN SPORTS HD6
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD6?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD7" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD7.png",66 BEIN SPORTS HD7
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD7?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD8" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD8.png",67 BEIN SPORTS HD8
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD8?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD9" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD9.png",68 BEIN SPORTS HD9
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD9?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS HD10" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINHD10.png",69 BEIN SPORTS HD10
-http://204.0.0.2:8099/BEIN%20SPORTS%20HD10?u=emby:p=12321:server_ip_port=204.0.0.2:8099
-#EXTINF:-1 tvg-id="BEIN SPORTS NBA" group-title="Sports Channels" tvg-logo="http://204.0.0.2:17000/media/BEINNBA.png",70 BEIN SPORTS NBA
-http://204.0.0.2:8099/BEIN%20SPORTS%20NBA?u=emby:p=12321:server_ip_port=204.0.0.2:8099
+#EXTINF:-1 tvg-id="CH4" group-title="Local Channels" tvg-logo="http://185.139.13.13:17000/media/MTV.jpg",1 MTV
+http://185.139.13.13:8099/MTV?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="LBCI" group-title="Local Channels" tvg-logo="http://185.139.13.13:17000/media/LBCI.jpg",2 LBCI
+http://185.139.13.13:8099/LBCI?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="ALJADEED" group-title="Local Channels" tvg-logo="http://185.139.13.13:17000/media/ALJADEED.png",3 ALJADEED
+http://185.139.13.13:8099/ALJADEED?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OTV" group-title="Local Channels" tvg-logo="http://185.139.13.13:17000/media/otv.png",4 OTV
+http://185.139.13.13:8099/OTV?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="LB2" group-title="Local Channels" tvg-logo="http://185.139.13.13:17000/media/LB2.png",5 LB2
+http://185.139.13.13:8099/LB2?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="ALMANAR" group-title="Local Channels" tvg-logo="http://185.139.13.13:17000/media/MANAR.jpg",6 ALMANAR
+http://185.139.13.13:8099/ALMANAR?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="ALMAYADEEN" group-title="News Channels" tvg-logo="http://185.139.13.13:17000/media/MAYADEEN.png",20 ALMAYADEEN
+http://185.139.13.13:8099/ALMAYADEEN?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="ALHADATH" group-title="News Channels" tvg-logo="http://185.139.13.13:17000/media/ALHADATH.png",21 ALHADATH
+http://185.139.13.13:8099/ALHADATH?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="FOXREWAYAT" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/FOXREWAYAT.png",30 FOXREWAYAT
+http://185.139.13.13:8099/FOXREWAYAT?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="DISCOVERY.ID" group-title="Documentary Channels" tvg-logo="http://185.139.13.13:17000/media/DISCOVERYID.png",31 DISCOVERY ID
+http://185.139.13.13:8099/DISCOVERY%20ID?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN.MOVIES.HD1" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/BEINMOVIESHD1.png",32 BEIN MOVIES HD1 PREMIERE
+http://185.139.13.13:8099/BEIN%20MOVIES%20HD1%20PREMIERE?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN MOVIES HD2 ACTION" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/BEINMOVIESHD2.png",33 BEIN MOVIES HD2 ACTION
+http://185.139.13.13:8099/BEIN%20MOVIES%20HD2%20ACTION?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SERIES HD1" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/BEINSERIESHD1.png",34 BEIN SERIES HD1
+http://185.139.13.13:8099/BEIN%20SERIES%20HD1?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN DRAMA HD1" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/BEINDRAMAHD1.png",35 BEIN DRAMA HD1
+http://185.139.13.13:8099/BEIN%20DRAMA%20HD1?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="MBC+ DRAMA" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/MBCPLUS.jpg",36 MBC+ DRAMA
+http://185.139.13.13:8099/MBC%2B%20DRAMA?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN YA HALA CINEMA" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/OSNYAHALACINEMA.png",37 OSN YA HALA CINEMA
+http://185.139.13.13:8099/OSN%20YA%20HALA%20CINEMA?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN YA HALA" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/OSNYAHALA.jpg",38 OSN YA HALA
+http://185.139.13.13:8099/OSN%20YA%20HALA?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN YA HALA OULA" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/OSNYAHALAOULA.png",39 OSN YA HALA OULA
+http://185.139.13.13:8099/OSN%20YA%20HALA%20OULA?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN MOVIES" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/OSNMOVIES.png",40 OSN MOVIES
+http://185.139.13.13:8099/OSN%20MOVIES?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN MOVIES FIRST" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/OSNMOVIESFIRST.jpg",41 OSN MOVIES FIRST
+http://185.139.13.13:8099/OSN%20MOVIES%20FIRST?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN ACTION" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/OSNACTION.jpg",42 OSN ACTION
+http://185.139.13.13:8099/OSN%20ACTION?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN ENIGMA" group-title="Movies Channels" tvg-logo="http://185.139.13.13:17000/media/OSNENIGMA.jpg",43 OSN ENIGMA
+http://185.139.13.13:8099/OSN%20ENIGMA?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN MOVIES DISNEY" group-title="Kids Channels" tvg-logo="http://185.139.13.13:17000/media/OSNMOVIESDISNEY.png",50 OSN MOVIES DISNEY
+http://185.139.13.13:8099/OSN%20MOVIES%20DISNEY?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN DISNEY CHANNEL" group-title="Kids Channels" tvg-logo="http://185.139.13.13:17000/media/DISNEY.png",51 DISNEY CHANNEL
+http://185.139.13.13:8099/DISNEY%20CHANNEL?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="OSN KIDS" group-title="Kids Channels" tvg-logo="http://185.139.13.13:17000/media/OSNKIDS.png",52 OSN KIDS
+http://185.139.13.13:8099/OSN%20KIDS?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="NICKELODEON" group-title="Kids Channels" tvg-logo="http://185.139.13.13:17000/media/NICKELODEON.png",53 NICKELODEON
+http://185.139.13.13:8099/NICKELODEON?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="NICKELODEON JUNIOR" group-title="Kids Channels" tvg-logo="http://185.139.13.13:17000/media/NICKELODEONJUNIOR.jpg",54 NICKELODEON JUNIOR
+http://185.139.13.13:8099/NICKELODEON%20JUNIOR?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="FATAFEAT" group-title="Food Channels" tvg-logo="http://185.139.13.13:17000/media/FATAFEAT.jpg",55 FATAFEAT
+http://185.139.13.13:8099/FATAFEAT?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD1" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD1.png",60 BEIN SPORTS HD1
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD1?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD2" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD2.png",61 BEIN SPORTS HD2
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD2?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD3" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD3.jpg",62 BEIN SPORTS HD3
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD3?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD4" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD4.png",63 BEIN SPORTS HD4
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD4?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD5" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD5.jpg",64 BEIN SPORTS HD5
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD5?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD6" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD6.png",65 BEIN SPORTS HD6
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD6?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD7" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD7.png",66 BEIN SPORTS HD7
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD7?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD8" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD8.png",67 BEIN SPORTS HD8
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD8?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD9" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD9.png",68 BEIN SPORTS HD9
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD9?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS HD10" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINHD10.png",69 BEIN SPORTS HD10
+http://185.139.13.13:8099/BEIN%20SPORTS%20HD10?u=emby:p=12321:server_ip_port=185.139.13.13:8099
+#EXTINF:-1 tvg-id="BEIN SPORTS NBA" group-title="Sports Channels" tvg-logo="http://185.139.13.13:17000/media/BEINNBA.png",70 BEIN SPORTS NBA
+http://185.139.13.13:8099/BEIN%20SPORTS%20NBA?u=emby:p=12321:server_ip_port=185.139.13.13:8099
 
